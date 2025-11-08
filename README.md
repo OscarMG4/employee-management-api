@@ -2,10 +2,6 @@
 
 Sistema web completo para la gestión de empleados y departamentos con funcionalidades de CRUD, búsqueda avanzada, filtros y paginación.
 
-## Descripción
-
-Aplicación empresarial que permite administrar la estructura organizacional de una empresa, incluyendo departamentos jerárquicos y su personal. Construido con Laravel en el backend y React con TypeScript en el frontend.
-
 ## Requisitos Previos
 
 - PHP 8.2 o superior
